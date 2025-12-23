@@ -1,6 +1,6 @@
 # Mojito Website
 
-A modern, interactive React-based website for Mojito, a premium cocktail bar located in Los Angeles. This single-page application showcases the bar's menu, ambiance, and artistry through smooth animations and responsive design.
+A modern, interactive React-based website for Mojito, a premium cocktail bar located in Mumbai. This single-page application showcases the bar's menu, ambiance, and artistry through smooth animations and responsive design.
 
 **Hero Section**
 
